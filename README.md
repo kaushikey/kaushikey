@@ -7,10 +7,9 @@
 kaushikey/kaushikey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p>Coding Profiles</p>
-<select name="cars" id="cars" form="carform">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
+<h3> &nbsp &nbsp Coding Profiles</h3>
+<h4>&nbsp &nbsp &nbsp <a href="https://leetcode.com/kaushikey_g/" target="_blank">  Leetcode </a></h4>
+<h4>&nbsp &nbsp &nbsp <a href="https://auth.geeksforgeeks.org/user/kaushikey945022/" target="_blank">  GFG </a></h4>
+<h4>&nbsp &nbsp &nbsp <a href="https://codeforces.com/profile/kaushikey945022" target="_blank"> CodeForces </a></h4>
+<h4>&nbsp &nbsp &nbsp <a href="https://www.hackerrank.com/kaushikey945022" target="_blank">  HackerRank </a></h4>
+
