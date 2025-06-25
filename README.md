@@ -1,6 +1,7 @@
 - ### <img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Hi.gif" width="29" height="29"> **Hello world!** &nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Earth.gif" width="24" height="24">
-# I'm Kaushikey Gupta&nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30" height="30">
-- 🌱 I’m currently learning Web development (Backend Developer).
+# I'm Kaushikey Gupta&nbsp;<img src="https://github.com/XenoCod/XenoCod/blob/main/gifs/Mario_Hello_Big.gif" width="30" height="30"> 
+# Checkout my <a href="https://github.com/Kaushikey1?tab=overview" target="_blank"> green github.</a> 👨🏻‍💻
+- 🌱 I’m currently working as a Backend developwe with finbox. Employed by Amazon(SE intern).
 - 📫 How to reach me <a href="mailto:kaushikey945022@gmail.com" target="_blank">kaushikey945022@gmail.com</a>
 - 👀 Lets's Connect <a href="https://www.linkedin.com/in/kaushikey-gupta-628984192/" target="_blank">Linkedin : Kaushikey Gupta</a>
 - ^_^ Check me on: <a href="https://kaushikey.github.io/portfolio_me/" target="_blank"> Kaushikey Gupta (Portfolio) </a> 
